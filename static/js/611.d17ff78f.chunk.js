@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkKaivo=self.webpackChunkKaivo||[]).push([[611],{4611:function(e,a,s){e.exports=s.p+"static/media/hero.eae6743d1a7f84825c36.jpg"}}]);

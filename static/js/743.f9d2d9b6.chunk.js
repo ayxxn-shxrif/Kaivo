@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkKaivo=self.webpackChunkKaivo||[]).push([[743],{5743:function(e,s,a){e.exports=a.p+"static/media/logo2.e0056010d4d0b967a291.svg"}}]);

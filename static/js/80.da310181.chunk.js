@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkKaivo=self.webpackChunkKaivo||[]).push([[80],{1080:function(e,a,c){e.exports=c.p+"static/media/bella.de0308228fac4d34acb9.jpeg"}}]);

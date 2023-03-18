@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkKaivo=self.webpackChunkKaivo||[]).push([[490],{3490:function(t,a,n){n.r(a),n.d(a,{default:function(){return u}});n(2791);var c=n(184),u=function(t){var a=t.handleClick,n=t.text,u=t.className,e=t.productId,o=t.count;return(0,c.jsx)("button",{onClick:a,className:u,"data-product":e,"data-count":o,children:n})}}}]);
+//# sourceMappingURL=490.aae09828.chunk.js.map
