@@ -1,0 +1,7 @@
+.logo__link {
+  justify-self: flex-start;
+}
+
+.logo__link svg{
+  width: 100px;
+}

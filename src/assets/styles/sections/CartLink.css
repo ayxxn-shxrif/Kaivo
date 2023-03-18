@@ -1,0 +1,32 @@
+.cart-link__wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.cart-link__counter {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-secondary);
+  color: var(--bg-color);
+  width: 18px;
+  height: 18px;
+  border-radius: 16px;
+  text-align: center;
+  font-size: 0.7rem;
+  font-weight: 600;
+  right: -10px;
+  top: -12px;
+}
+
+.cart-link {
+  width: 50px;
+  text-decoration: none;
+  color: var(--color-grey);
+  flex-basis: 50px;
+}
+
+.cart-link.active {
+  color: var(--color-primary);
+}
